@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software architect & developer with 12+ years of experience working with large-scale cloud-powered enterprise systems. 
+I'm a software architect & developer with 14+ years of experience working with large-scale cloud-powered enterprise systems. 
 
 - I value frequent changes, fast feedback and clear metrics. 
 - I'm passionate about improving engineering processes and tooling. 
